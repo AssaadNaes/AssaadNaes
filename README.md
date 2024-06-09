@@ -1,7 +1,7 @@
 <h1 align="center">About me 😄</h1>
 <h3 align="center">I am currently an apprentice in application development</h3>
 
-- 🔭 Currently working on **Fullstack and automation projects**
+- 🔭 Currently working on **fullstack and automation projects**
 
 - 🌱 Getting experience in **Spring Boot, Vue.js, WPF**
 
