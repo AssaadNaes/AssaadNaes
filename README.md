@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Assaad Naes</h1>
-<h3 align="center">I am currently an apprentice in application development.</h3>
+<h3 align="center">I am currently an apprentice in application development</h3>
 
 - 🔭 I’m currently working on **Fullstack and automation projects**
 
