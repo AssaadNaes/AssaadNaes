@@ -1,13 +1,13 @@
 <h1 align="center">About me 😄</h1>
 <h3 align="center">I am currently an apprentice in application development</h3>
 
-- 🔭 I’m currently working on **Fullstack and automation projects**
+- 🔭 Currently working on **Fullstack and automation projects**
 
-- 🌱 I’m currently learning **Spring Boot, Vue.js, WPF**
+- 🌱 Getting experience in **Spring Boot, Vue.js, WPF**
 
 - 💬 Ask me about **Java, C#, SQL, Docker**
 
-- 📫 How to reach me **assaad.naes@gmail.com**
+- 📫 Reach me at **assaad.naes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
