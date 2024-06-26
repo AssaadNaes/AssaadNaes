@@ -1,4 +1,4 @@
-<h1 align="center">About me 😄</h1>
+<h1 align="center">About me 😎</h1>
 <h3 align="center">I am currently an apprentice in application development</h3>
 
 - 🔭 Currently working on **fullstack and automation projects**
