@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Assaad, 22 and I am a fullstack developer</p>
+<p align="left">Assaad, 22 - Fullstack developer</p>
 
 ###
 
